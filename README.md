@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Jose
+![](https://asociacionaepi.es/wp-content/uploads/2019/01/banner-aepi.jpg)
 
-<!--
-**LearningProgramming0/LearningProgramming0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a little adventurer in the world of programming. I am currently learning to use this platform, so my profile is probably not the most interesting
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / MD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Training Full Developer 
+- 👯 I’m looking to collaborate on Creation of websites and applications 
+- 🤔 I’m looking for help with Anything related to programming 
+- ⚡ Fun fact: I trained to be a teacher, but I have decided to make a radical change 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LearningProgramming0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-guirao-morales/)  
