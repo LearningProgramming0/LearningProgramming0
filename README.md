@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Jose
+## Hi there 👋, my name is Jose
 ![](https://asociacionaepi.es/wp-content/uploads/2019/01/banner-aepi.jpg)
 
-I am a little adventurer in the world of programming. I am currently learning to use this platform, so my profile is probably not the most interesting
+### I am a little adventurer in the world of programming. I am currently learning to use this platform, so my profile is probably not the most interesting
 
 **Skills:** HTML / CSS / MD
 
