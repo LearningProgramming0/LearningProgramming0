@@ -9,9 +9,7 @@
 - 👯 I’m looking to collaborate on **creation of websites and applications** 
 - 🤔 I’m looking for help with anything related to **programming** 
 - ⚡ Fun fact: I trained to be a teacher, but I have decided to make a **radical change**
- 
 
 ![snake gif](https://github.com/LearningProgramming0/LearningProgramming0/blob/output/github-contribution-grid-snake.gif)
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LearningProgramming0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-guirao-morales-678541246/)
